@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/C__testing.dir/run.cpp.o CMakeFiles/C__testing.dir/itemnode.cpp.o CMakeFiles/C__testing.dir/menu.cpp.o -o C__testing 

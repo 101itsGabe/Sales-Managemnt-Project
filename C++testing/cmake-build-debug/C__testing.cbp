@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C__testing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__testing">
+				<Option output="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug/C__testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__testing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__testing/fast">
+				<Option output="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug/C__testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gabe/Desktop/Clion Output/C++testing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__testing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gabe/Desktop/Clion\ Output/C++testing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/customer.h">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/itemnode.cpp">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/itemnode.h">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/menu.cpp">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/menu.h">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/run.cpp">
+			<Option target="C__testing"/>
+		</Unit>
+		<Unit filename="/Users/gabe/Desktop/Clion Output/C++testing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

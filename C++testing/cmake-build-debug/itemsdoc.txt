@@ -1,0 +1,17 @@
+Krabby Patty, 50 4.00
+Double Krabby Patty, 25 5.50
+Krabby Patty w/ Cheese, 50 4.25
+Double Krabby Patty w/ Cheese, 20 5.75
+Kelp Shake, 70 2.50
+Coral Bites Sm, 40 1.00
+Coral Bites Md, 30 1.50
+Coral Bites Lg, 20 2.00
+Seafoam Soda Sm, 80 1.00
+Seafoam Soda Md, 80 1.25
+Seafoam Soda Lg, 80 1.50
+Sal-lad, 15 10.00
+Krabby Meal, 100 6.50
+Double Krabby Meal, 75 7.25
+Salty Seadog, 15 3.50
+Sailor Suprise, 20 3.00
+

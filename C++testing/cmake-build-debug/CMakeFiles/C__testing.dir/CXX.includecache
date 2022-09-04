@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabe/Desktop/Clion Output/C++testing/itemnode.h
+iostream
+-
+vector
+-
+
+/Users/gabe/Desktop/Clion Output/C++testing/menu.cpp
+menu.h
+/Users/gabe/Desktop/Clion Output/C++testing/menu.h
+
+/Users/gabe/Desktop/Clion Output/C++testing/menu.h
+itemnode.h
+/Users/gabe/Desktop/Clion Output/C++testing/itemnode.h
+iostream
+-
+iomanip
+-
+fstream
+-
+
